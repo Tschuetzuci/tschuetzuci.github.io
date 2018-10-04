@@ -7,8 +7,6 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ##### PRESENTATIONS
 
-<iframe width="1024" height="576" src="https://media.freifunk.net/v/wie-freifunken-in-der-asylindustrie/oembed" frameborder="0" allowfullscreen></iframe>
-
 "Hacking the Shelter? Alternative mesh networks and STS research in times of forced migration." 
 How can Science and Technology Studies help to reflect on the political crisis associated with refugees and asylum seekers? (Paper workshop, CES, Coimbra, Portugal, 26-28 September 2018
 
