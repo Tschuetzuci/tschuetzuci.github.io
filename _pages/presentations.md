@@ -6,7 +6,6 @@ featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ###### Academic
----
 
 "Hacking the Shelter? Alternative mesh networks and STS research in times of forced migration." 
 How can Science and Technology Studies help to reflect on the political crisis associated with refugees and asylum seekers? (Paper workshop, CES, Coimbra, Portugal, 26-28 September 2018
@@ -18,6 +17,8 @@ How can Science and Technology Studies help to reflect on the political crisis a
 ”Humanitarian Media Intervention: Doing Free/Open Infrastructures in Times of Forced Migration.” Contested Borderscapes: Transnational Geographies vis-à-vis Fortress Europe. Mytilene, Greece September 28 - October 1 2017.
 
 “Flucht, Unterkunft, Freifunk?” Research Insights Student Conference #2, University of Bremen, July 23 2015.
+
+---
 
 ###### Public
 
