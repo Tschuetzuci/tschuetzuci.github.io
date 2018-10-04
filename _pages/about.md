@@ -1,35 +1,12 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+title: About Me
+subtitle: 
+description: 
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+I am a trained social scientist with a BA in Media, Communication and Cultural Studies from the University of Bremen, Germany (2012–2017). Currently, I am a master‘s student in Science and Technology Studies (STS) at the Goethe University Frankfurt and the University of California, Irvine (2018-19). 
 
-## Features
+My research interests focus on (alternative) digital technologies and infrastructures, hacker politics and culture, media and migration, critical humanitarianism, institutional ethnography as well as technology in the old age.
 
-Journal is packed with powerful features to showcase your work:
-
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
-
-## Get Index
-
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
-
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+I am a fellow of the German National Academic Foundation (SDV) and the German-American Fulbright Foundation.
