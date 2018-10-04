@@ -1,3 +1,10 @@
+---
+title: Presentations
+subtitle: Academic and public talks
+description: Publications by Tim Schütz
+featured_image: /images/demo/demo-portrait.jpg
+---
+
 ##### PRESENTATIONS
 
 <iframe width="1024" height="576" src="https://media.freifunk.net/v/wie-freifunken-in-der-asylindustrie/oembed" frameborder="0" allowfullscreen></iframe>
