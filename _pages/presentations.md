@@ -1,6 +1,6 @@
 ---
 title: Presentations
-subtitle: Conferences, workshops and beyond
+subtitle: Click on links for presentation recordings
 description: Presentations by Tim Schütz
 featured_image: /images/demo/demo-portrait.jpg
 ---
