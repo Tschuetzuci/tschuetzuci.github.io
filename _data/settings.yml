@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Tim Schütz
-  site_tagline: Master's student in Cultural Anthropology and Fulbright fellow at the University of California, Irvine.
+  site_tagline: Cultural Anthropology grad student and Fulbright fellow at the University of California, Irvine.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -33,8 +33,8 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
-  twitter_url: ''
+  facebook_url: 'https://www.facebook.com/timschuetz10'
+  twitter_url: 'https://www.twitter.com/tmschtz'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
