@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: Click on links for open access
+subtitle: 
 description: Publications by Tim Schütz
 featured_image: /images/blog/2018/IMG_8643.jpg
 ---
