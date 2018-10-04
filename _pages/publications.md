@@ -1,7 +1,7 @@
 ---
 title: Publications
-subtitle: A stunning personal 
-description: A stunning
+subtitle: I aim to make all my writing open access
+description: Publications by Tim Schütz
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
