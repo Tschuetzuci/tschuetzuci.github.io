@@ -5,8 +5,6 @@ description: A stunning personal blog Jekyll theme with an image-focused design.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
-
 ##### JOURNAL ARTICLES
 
 2017 [Humanitarian media interventions: doing infrastructures in times of forced migration](http://spheres-journal.org/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration/). Spheres Journal for Digital Cultures #3. Open Access (with Sebastian Kubitschko).
