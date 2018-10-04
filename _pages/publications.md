@@ -5,6 +5,8 @@ description: Publications by Tim Schütz
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
+---
+
 ##### Peer-Reviewed Journal Articles
 
 2017, [Humanitarian media interventions: doing infrastructures in times of forced migration](http://spheres-journal.org/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration/), _Spheres Journal for Digital Cultures #3._ (with Sebastian Kubitschko).
