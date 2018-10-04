@@ -22,5 +22,5 @@ How can Science and Technology Studies help to reflect on the political crisis a
 
 ###### Public
 
-“Wie Freifunken in der Asylindustrie? Notizen aus der Partizipationsforschung.” Open Infrastructure Stage, 34C3 Chaos Communication Congress, Leipzig, Germany, 30 December 2017.
+“[Wie Freifunken in der Asylindustrie? Notizen aus der Partizipationsforschung](https://media.freifunk.net/v/wie-freifunken-in-der-asylindustrie).” Open Infrastructure Stage, 34C3 Chaos Communication Congress, Leipzig, Germany, 30 December 2017.
 
