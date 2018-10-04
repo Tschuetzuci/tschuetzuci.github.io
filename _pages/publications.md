@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: I aim to make all my writing open access
+subtitle: Open access writing
 description: Publications by Tim Schütz
 featured_image: /images/demo/demo-portrait.jpg
 ---
