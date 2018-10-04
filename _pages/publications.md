@@ -2,7 +2,7 @@
 title: Publications
 subtitle: Click on links for open access
 description: Publications by Tim Schütz
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/blog/2018/IMG_8643.jpg
 ---
 
 ---
