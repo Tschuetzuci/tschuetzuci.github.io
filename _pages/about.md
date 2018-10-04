@@ -2,7 +2,7 @@
 title: About Me
 subtitle: 
 description: 
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/blog/2018/IMG_8662.jpg
 ---
 
 I am a trained social scientist with a BA in Media, Communication and Cultural Studies from the University of Bremen, Germany (2012–2017). Currently, I am a master‘s student in Science and Technology Studies (STS) at the Goethe University Frankfurt and the University of California, Irvine (2018-19). 
