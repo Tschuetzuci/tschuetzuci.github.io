@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
+subtitle: A stunning personal 
 description: A stunning
 featured_image: /images/demo/demo-portrait.jpg
 ---
